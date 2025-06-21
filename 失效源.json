@@ -545,14 +545,6 @@
       "filterable": 1
     },
     {
-      "key": "晴天",
-      "name": "📱｜晴天｜高清◎秒播(APP源)",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "./jar/mi-0513.txt;md5;bcb27d2740df8d21bfc49c507432663a",
-      "ext": "sHR2rlsfjI4L3t4RXQMknxZ67tu9z+phb0aSTvZQgyA6q0xr5CADU+Ci4NlKxGdylKHER46Cs4iIIIx6DdbWw0Sng/Z0F+jfaucg9epO4FUb/E7RG8NezsS+R4Dvsb4o50UjQG9bvlSBY9p/s5XD9KtJNMrH5tj1EbC6eEwZ4KOT7oCjM7uBxZRVhTmijQCvcoza/h46Fz6BrnGO68PxIg=="
-    },
-    {
       "key": "悠悠",
       "name": "📱｜悠悠｜高清◎秒播(無廣告+APP源+常常死)",
       "type": 3,
