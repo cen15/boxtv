@@ -11,7 +11,7 @@
     "api": "csp_AppYsV2",
     "jar": "./jar/mi-0619.jar;md5;9b8e295927dccaf6f96cd9008174fe11",
     "playerType": 2,
-    "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod/"
+    "ext": "./json/cs.txt"
   },
   {
     "key": "晚枫",
