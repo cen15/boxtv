@@ -4,7 +4,15 @@
   "wallpaper": "https://tv.nxog.top/m/t/",
   "sites": [
 
-
+  {
+    "key": "QD4K",
+    "name": "豬豬",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "jar": "./jar/mi-0619.jar;md5;9b8e295927dccaf6f96cd9008174fe11",
+    "playerType": 2,
+    "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
+  },
 
     {
       "key": "豆瓣",
@@ -250,7 +258,7 @@
       "name": "🏆｜倉鼠｜藍光◎秒播(無廣告+APP)",
       "type": 3,
       "api": "csp_AppGet2",
-      "jar": "./jar/mi-0616.jar;md5;1e7f7177310a216ed9b2bf806b6debd1",
+      "jar": "./jar/mi-0619.jar;md5;9b8e295927dccaf6f96cd9008174fe11",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "sHR2rlsfjI4L3t4RXQMkn85YdqME5ZFXdHXyEUNrexXmXuKOZHlPhQJvT6ZKEMODJQuGTLg+gpKS+XoOxUH8DdjcutGqV/lfrY9l/Ww/J/LYA0AH34KTXsOeg1p5p+KSYaG5at+IT/dqPugeQjLLpkECHqWJpIs4B2evdM7dDIOBuPmMrT5lbU1yNZHMNkr8tConVxhS1qlq57WIByuNTQ=="
@@ -646,7 +654,7 @@
       "name": "🥇｜步步｜高清◎秒播(無廣告)",
       "type": 3,
       "api": "./drpy_libs/drpy2.min.js",
-      "jar": "./jar/mi-0513.txt",
+      "jar": "./jar/mi-0513.txt;md5;bcb27d2740df8d21bfc49c507432663a",
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
     },
     {
