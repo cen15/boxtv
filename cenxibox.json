@@ -4,19 +4,19 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣🌿熱播",
+      "name": "豆瓣🌿热播",
       "type": 3,
       "api": "csp_Douban",
-      "ext": "https://chenxi11.dpdns.org/github.com/cen15/boxtv/raw/refs/heads/main/json/douban.json",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "\"danmu\": true"
     },
     {
       "key": "py_xiaohys",
       "name": "小紅💖秒播",
       "type": 3,
-      "api": "https://chenxi11.dpdns.org/github.com/cen15/boxtv/raw/refs/heads/main/py/小红影视.py",
+      "api": "https://chenxi11.dpdns.org/https://github.com/cen15/boxtv/raw/refs/heads/main/py/%E5%B0%8F%E7%BA%A2%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -55,13 +55,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/電影先生.json"
+      "ext": "https://chenxi11.dpdns.org/https://github.com/cen15/boxtv/raw/7c153fcf74e2dd80b7c7889eff25e9fb72f09698/json/%E9%9B%BB%E5%BD%B1%E5%85%88%E7%94%9F.json"
     },
     {
       "key": "py_哇哇APP",
       "name": "哇哇🌏秒播",
       "type": 3,
-      "api": "https://chenxi11.dpdns.org/github.com/cen15/boxtv/raw/refs/heads/main/py/哇哇APP.py",
+      "api": "https://chenxi11.dpdns.org/https://github.com/cen15/boxtv/raw/7c153fcf74e2dd80b7c7889eff25e9fb72f09698/py/%E5%93%87%E5%93%87APP.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
