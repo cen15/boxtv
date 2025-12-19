@@ -7,7 +7,9 @@
 
 3. Android TV：使用TVbox支持多个JAR的修改版添加播放才不会报错或使用影视仓app（自行百度搜索）
 
-4. TVbox订阅链接：https://github.com/cen15/boxtv/raw/refs/heads/main/no-sex.json
+4. zyfun订阅链接：https://github.com/cen15/boxtv/raw/refs/heads/main/zyfun.json
 
-9. 接口主要区分jar(各种抄及加密)、js(道长)、XBPQ(枫雅晴)、API、直连等5种，如果道长哪天又消失了，那大部分的js因为他有加密的关系，可能一瞬间死光，且无法修改，应该设法自主透过XBPQ(改良版xyqxbpq)写站源，除了能增加对网站的结构了解以外，也能够多一些备用点。
-10. 接口所用的jar太过繁多，自行修改尽可能删减，尽量单一化，以减少缓存
+5. TVbox订阅链接：https://github.com/cen15/boxtv/raw/refs/heads/main/no-sex.json
+
+6. 接口主要区分jar(各种抄及加密)、js(道长)、XBPQ(枫雅晴)、API、直连等5种，如果道长哪天又消失了，那大部分的js因为他有加密的关系，可能一瞬间死光，且无法修改，应该设法自主透过XBPQ(改良版xyqxbpq)写站源，除了能增加对网站的结构了解以外，也能够多一些备用点。
+7. 接口所用的jar太过繁多，自行修改尽可能删减，尽量单一化，以减少缓存
